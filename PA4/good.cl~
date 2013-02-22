@@ -1,0 +1,38 @@
+(*
+class C inherits Main {
+	a : Int;
+	b : Bool;
+	init(x : Int, y : Bool) : C {
+           {
+		a <- x;
+		b <- y;
+		self;
+           }
+	};
+};
+*)
+
+Class Main inherits Object {
+	test : Int <- o + 1;
+	test : Int;
+	main(): Int {
+		test + o
+	};
+	foo(a: Int, a: Int): Int {
+		let a : Int, a : String in { 
+			let a : Int in {3;};
+		}
+	};
+	o : Int <- o + 1;
+};
+(*
+Class D inherits Object {
+	main():C {
+	  (new C).init(1,true)
+	};
+	foo(b: Int, c: C): Int {
+		3
+	};
+};
+*)
+

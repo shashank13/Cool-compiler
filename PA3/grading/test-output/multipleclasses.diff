@@ -1,0 +1,55 @@
+2,3c2,52
+< filename, line 15: syntax error at or near LOCATION
+< Compilation halted due to lex and syntax errors
+---
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> filename, line 6: syntax error at or near LOCATION
+> More than 50 errors

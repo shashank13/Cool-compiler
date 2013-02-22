@@ -1,0 +1,6 @@
+	-1 (badfeatures)	 multiple errors in features in a class
+	-1 (casenoexpr)	 case with no expr
+	-1 (firstbindingerrored)	 error recovery after a binding error
+	-1 (firstclasserrored)	 error recovery after a bad class declaration
+	-1 (multipleclasses)	 multiple classes in a file
+	-1 (secondbindingerrored)	 second binding of a let has an error

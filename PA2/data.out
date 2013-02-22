@@ -1,0 +1,8 @@
+#name "./grading/backslash2.cool"
+#1 ERROR "STR_CONST contain non-escaped newline"
+#1 ERROR "STR_CONST contain non-escaped newline"
+#2 ERROR "STR_CONST contain non-escaped newline"
+#2 ERROR "STR_CONST contain non-escaped newline"
+#4 STR_CONST "This is, though \\\n"
+#6 STR_CONST "\\"
+#8 STR_CONST "It's fine to have this: \n in a string"

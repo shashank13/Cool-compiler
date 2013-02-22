@@ -1,0 +1,2 @@
+reflexr $* | refparser $* | refsemant $*
+
